@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Main {
     public static Scanner scanner;
-    public static final ArrayList<String> FIELD = new ArrayList<>();
+    public static final List<String> FIELD = new ArrayList<>();
     public static Frog frog;
     public static List<FrogCommand> commands;
     private static final String EMPTY_CELL_SYMBOL = "_";
